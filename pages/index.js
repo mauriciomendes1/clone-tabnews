@@ -1,5 +1,9 @@
-function Home(){
-   return <h1>Te amo gordinha safada</h1>
+function Home() {
+  return <h1>Te amo gordinha safada</h1>;
 }
 
-export default Home
+function teste() {
+  return console.log("teste");
+}
+
+export default Home;
